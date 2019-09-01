@@ -1,0 +1,2 @@
+microsoft questions:
+1.delete without head pointer.
